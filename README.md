@@ -1,2 +1,2 @@
 # Yo!
-Almost everything should be open source.
+Everything should be open source.
